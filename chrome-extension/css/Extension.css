@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+#input-el{
+    display: block;
+    border: none;
+    border: solid 1px red;
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    outline: none;
+  
+}
+#input-btn{
+    background-color: red;
+    color:white;
+    margin-top: 2px;
+    border: none;
+    padding: 4px;
+    width: 150px;
+    border: none; 
+}
+#tab-btn{
+    background-color: red;
+    color:white;
+    margin-top: 2px;
+    border: none;
+    padding: 4px;
+    width: 150px;
+    border: none; 
+}
+ul{
+   margin-top: 20px; 
+   padding-left: 0;
+   list-style: none;
+}
+li{
+    margin-top: 15px;
+}
+li a{
+    color: red;
+}
+a:visited{
+    color: blueviolet;
+}
+#input-btn2{
+    background-color: white;
+    color:red;
+    margin-top: 2px;
+    border: none;
+    border: solid 1px red;
+    padding: 4px;
+    width: 150px;
+  
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url(../imgs/photo-1624689588609-9b1881c7bc4f.jpeg);
+    background-size:cover;
+    
+}
+div{
+text-align: center;
+color: white;
+}
+ #increment{
+    width: 200px;
+    background-color: red;
+    color:white;
+    border: none;
+    border: solid balck 1px;
+    padding: 7px;
+    border-radius: 6px;
+    outline: auto;
+}
+#save{
+    width: 200px;
+    background-color: green;
+    color:white;
+    border: none;
+    border: solid balck 1px;
+    padding: 7px;
+    border-radius: 6px;
+    outline: auto;
+}
